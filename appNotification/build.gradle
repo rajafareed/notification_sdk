@@ -32,7 +32,7 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.findByName('release')
-                groupId = 'com.github.rajafareed>'
+                groupId = 'com.github.rajafareed'
                 artifactId = 'appNotification'
                 version = '1.0.0'
             }
