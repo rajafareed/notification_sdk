@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace 'com.its.notification_sdk'
-    compileSdk 34
+    compileSdk 35
 
     defaultConfig {
         minSdk 24
@@ -33,7 +33,7 @@ afterEvaluate {
                 from components.findByName('release')
                 groupId = 'com.github.rajafareed'
                 artifactId = 'notification_sdk'
-                version = '1.0.0'
+                version = '1.0.1'
             }
         }
     }
