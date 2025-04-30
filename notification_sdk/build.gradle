@@ -34,7 +34,7 @@ afterEvaluate {
                 from components.findByName('release')
                 groupId = 'com.github.rajafareed'
                 artifactId = 'notification_sdk'
-                version = '1.0.4'
+                version = '1.0.5'
             }
         }
     }
