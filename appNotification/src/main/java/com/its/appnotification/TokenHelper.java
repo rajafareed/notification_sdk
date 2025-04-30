@@ -1,4 +1,4 @@
-package com.its.notification_sdk;
+package com.its.appnotification;
 
 import android.util.Log;
 

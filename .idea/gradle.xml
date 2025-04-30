@@ -10,7 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/app/notification_sdk" />
-            <option value="$PROJECT_DIR$/notification_sdk" />
+            <option value="$PROJECT_DIR$/appNotification" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
